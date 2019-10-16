@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editor de Textos Enriquecido", "Editor de Textos Enriquecido\Editor de Textos Enriquecido.csproj", "{EC874570-3D16-4137-B7D8-F2BAABA404FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC874570-3D16-4137-B7D8-F2BAABA404FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC874570-3D16-4137-B7D8-F2BAABA404FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC874570-3D16-4137-B7D8-F2BAABA404FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC874570-3D16-4137-B7D8-F2BAABA404FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F050918F-4822-4655-B6B2-524CF894D9CE}
+	EndGlobalSection
+EndGlobal
